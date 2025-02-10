@@ -1,0 +1,14 @@
+com\mycompany\comercioeletronico\ValorMinimo.class
+com\mycompany\comercioeletronico\Produto.class
+com\mycompany\comercioeletronico\GerenciaVendas.class
+com\mycompany\comercioeletronico\CupomLimitado.class
+com\mycompany\comercioeletronico\Alimento.class
+com\mycompany\comercioeletronico\CupomInvalidoException$Tipo.class
+com\mycompany\comercioeletronico\ResumoVendas.class
+com\mycompany\comercioeletronico\Venda.class
+com\mycompany\comercioeletronico\Cupom.class
+com\mycompany\comercioeletronico\Produto$ProdutoInvalidoException.class
+com\mycompany\comercioeletronico\CupomInvalidoException.class
+com\mycompany\comercioeletronico\Roupa.class
+com\mycompany\comercioeletronico\Eletronico.class
+com\mycompany\comercioeletronico\ComercioEletronico.class
