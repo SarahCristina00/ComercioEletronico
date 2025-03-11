@@ -79,7 +79,7 @@ Este projeto conta com testes unitários para: ✔️ Validação dos descontos 
 ✅ Relatórios detalhados para facilitar a análise!
 ✅ Código bem estruturado e seguindo boas práticas!
 
-## 💻 Vamos criar um e-commerce de sucesso? (づ ◕‿◕ )づ
+### 💻 Vamos criar um e-commerce de sucesso? (づ ◕‿◕ )づ
 
 ## 👨‍💻 Autor
 Desenvolvido mim como parte da disciplina de Orientação a Objetos no curso de Sistemas de Informação da UFJF.
