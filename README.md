@@ -69,19 +69,19 @@ mvn install
 
 java -jar target/ecommerce.jar
 
-🧪 Testes
+## 🧪 Testes
 Este projeto conta com testes unitários para: ✔️ Validação dos descontos aplicados por cada tipo de cupom.
 ✔️ Cálculo do total da venda com e sem cupons.
 ✔️ Testes dos métodos de relatórios.
 
-🎯 Extras
+## 🎯 Extras
 ✅ O sistema impede a aplicação de cupons inválidos!
 ✅ Relatórios detalhados para facilitar a análise!
 ✅ Código bem estruturado e seguindo boas práticas!
 
-💻 Vamos criar um e-commerce de sucesso? 🚀
+## 💻 Vamos criar um e-commerce de sucesso? (づ ◕‿◕ )づ
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido mim como parte da disciplina de Orientação a Objetos no curso de Sistemas de Informação da UFJF.
 
 🛍️ Que as compras com desconto estejam com você! 🏷️
