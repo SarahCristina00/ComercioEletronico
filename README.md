@@ -59,7 +59,7 @@ git clone <https://github.com/SarahCristina00/ComercioEletronico>
 
 2️⃣ Acesse a pasta do projeto:
 
-cd ecommerce-java
+cd ComercioEletronico
 
 3️⃣ Instale as dependências:
 
@@ -67,7 +67,7 @@ mvn install
 
 4️⃣ Execute o programa:
 
-java -jar target/ecommerce.jar
+java -jar target/ComercioEletronico.jar
 
 ## 🧪 Testes
 Este projeto conta com testes unitários para: ✔️ Validação dos descontos aplicados por cada tipo de cupom.
